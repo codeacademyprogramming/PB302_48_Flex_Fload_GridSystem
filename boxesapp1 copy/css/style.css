@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+.boxes{
+width: 1000px;
+background-color: gray;
+margin: auto;
+}
+
+.boxes .box{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    border: 1px solid black;
+}
+
+
